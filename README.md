@@ -1,1 +1,1 @@
-# YellowSense-SEBI_Confidential_Computing_demo
+# Yellowsense_member_compliance_monitoring
